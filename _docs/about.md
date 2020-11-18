@@ -10,4 +10,4 @@ permalink: /docs/about/
 <hr>
 <img src="{{ "/assets/img/hoa_2.jpg" | relative_url }}" alt="Hoa's Avatar"><br/>MSc. Bùi Thị Hoa<br/>Staff<br/>Tel.: 0349729164<br/>Email: <hoa.hanab1k55@gmail.com>
 <hr>
-<img src="{{ "/assets/img/phong_2.png" | relative_url }}" alt="Phong's Avatar"><br/>MSc. Vi Hồ Phong<br/>Staff<br/>Tel.:<br/>Email: <vihophong@hus.edu.vn>
+<img src="{{ "/assets/img/phong_2.png" | relative_url }}" alt="Phong's Avatar"><br/>Dr. Vi Hồ Phong<br/>Staff<br/>Tel.:<br/>Email: <vihophong@hus.edu.vn>
