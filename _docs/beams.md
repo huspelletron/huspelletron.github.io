@@ -7,7 +7,7 @@ Typical cross section of the beam spot for IBA beamline: 0.8 cm X 0.8 cm.
 
 Typical cross section of beam spot for Implantation beamline: 10 cm x 10 cm (Beam uniforminty can be adjusted  using raster scanner).
 
-|Ion species|Maximum Energy (charge state 1+)|Beam current|Ion Source|
+|Ion species|Energy (charge state 1+)|Beam current|Ion Source|
 | ------------- |:----------------:| -----:|---------:|
 |<sup>1</sup>H (p)|0.8 - 3.4 MeV|1-1000 nA|RF Alphatross, SNICS|
 |<sup>2</sup>H (d)|0.8 - 3.4 MeV|1-1000 nA|RF Alphatross|
