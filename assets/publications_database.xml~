@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-10-26T11:12:05">
 <Sheet2>
 <no>1</no>
@@ -56,18 +56,7 @@
 <publisher>Pergamon</publisher>
 </Sheet2>
 <Sheet2>
-<Sheet2>
 <no>6</no>
-<title>Strain-dependent structure and Raman behaviours in the heavy-ion irradiated manganite at extreme low dose</title>
-<author>Hoang, Nam Nhat and Pham, Duc Huyen Yen and Nguyen, The Nghia</author>
-<journal>Scientific reports</journal>
-<volumne>9</volumne>
-<number>1</number>
-<page>1--10</page>
-<year>2019</year>
-<publisher>Nature Publishing Group</publisher>
-</Sheet2>	
-<no>7</no>
 <title>Possibility for nuclear physics study based on Pelletron accelerator at Hanoi, Vietnam</title>
 <author>Viet, Cuong Phan and Le Tuan, Anh and Le Xuan, Chung and Hong, Ha Nguyen and Thi, Thao Ho and Duc, Khue Pham</author>
 <journal>EPJ Web of Conferences</journal>
@@ -78,7 +67,7 @@
 <publisher>EDP Sciences</publisher>
 </Sheet2>
 <Sheet2>
-<no>8</no>
+<no>7</no>
 <title>The effects of some soil characteristics on radon emanation and diffusion</title>
 <author>Thu, Huynh Nguyen Phong and Van Thang, Nguyen and others</author>
 <journal>Journal of Environmental Radioactivity</journal>
@@ -88,5 +77,4 @@
 <year>2020</year>
 <publisher>Elsevier</publisher>
 </Sheet2>
-
 </dataroot>
