@@ -37,6 +37,7 @@ permalink: /docs/publications/
 		var page = xml.getElementsByTagName('page');
 		var year = xml.getElementsByTagName('year');
 		var publisher = xml.getElementsByTagName('publisher');
+		var doi = xml.getElementsByTagName('doi');
 		for (i = 0; i < no.length; i++) {
 			no_i = no[i].childNodes[0].nodeValue;
 			title_i = title[i].childNodes[0].nodeValue;
@@ -47,9 +48,10 @@ permalink: /docs/publications/
 			page_i = page[i].childNodes[0].nodeValue;
 			year_i = year[i].childNodes[0].nodeValue;
 			publisher_i = publisher[i].childNodes[0].nodeValue;
+			doi_i = doi[i].childNodes[0].nodeValue;
 			const row = `<tr>
 						<td align="left">${no_i}</td>
-						<td align="left">${title_i}</td>
+						<td align="left"><a href="${doi_i}" target="_blank">${title_i}</a></td>
 						<td align="left">${author_i}</td>
 						<td align="left">${journal_i}</td>
 						<td align="left">${volumne_i}; ${number_i}; ${page_i}</td>
