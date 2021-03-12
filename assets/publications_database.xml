@@ -1,111 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <row>
-    <author>Nghia, Nguyen The and Van Loat, Bui and Mai, Vu Thanh</author>
-    <journal>VNU Journal of Science, Mathematics-Physics</journal>
-    <no>1</no>
-    <number>1S</number>
-    <page>180--184</page>
-    <publisher>VNU</publisher>
-    <title>The model 5SDH-2 pelletron accelerator and application</title>
-    <volumne>27</volumne>
-    <year>2011</year>
-    <doi>https://maygiatoc.com/docs/publications/</doi>
-  </row>
-  <row>
-    <author>Nghia, Nguyen The and others</author>
-    <journal>Nuclear Science and Technology</journal>
-    <no>2</no>
-    <number>3</number>
-    <page>50--55</page>
-    <publisher>VINATOM</publisher>
-    <title>Using resonance strength nuclear reaction 27Al(p,_)28Si to standardize energy for pelletron accelerator 5sdh-2 of hanoi university of science</title>
-    <volumne>3</volumne>
-    <year>2013</year>
-    <doi>https://vcgate.vnu.edu.vn/articles/using-resonant-nuclear-reaction-27al-p-g-28si-to-calibrate-beam-energy-for-pelletron-accelerator-5sdh-2-at-hanoi-university-of-science</doi>
-  </row>
-  <row>
-    <author>Khiem, Le Hong and Nghia, Nguyen The and Phong, Vi Ho and Van Loat, Bui and others</author>
-    <journal>Communications in Physics</journal>
-    <no>3</no>
-    <number>3S2</number>
-    <page>1--7</page>
-    <publisher>n/a</publisher>
-    <title>Proton Induced X-Ray Emission (PIXE) Analysis on Thick Samples at HUS 5SDH-2 Tandem Accelerator System</title>
-    <volumne>24</volumne>
-    <year>2014</year>
-    <doi>https://doi.org/10.15625/0868-3166/24/3S2/5013</doi>
-  </row>
-  <row>
-    <author>Khiem, Le Hong and Phong, Vi Ho and others</author>
-    <journal>Journal of Physics Conference Series</journal>
-    <no>4</no>
-    <number>1</number>
-    <page>12005</page>
-    <publisher>n/a</publisher>
-    <title>Calculation for optimization of the experimental conditions for RBS analysis at the HUS 5SDH-2 tandem accelerator</title>
-    <volumne>627</volumne>
-    <year>2015</year>
-    <doi>https://doi.org/10.1088/1742-6596/627/1/012005</doi>
-  </row>
-  <row>
-    <author>Nguyen, Minh N and Dultz, Stefan and Picardal, Flynn and Bui, Anh TK and Pham, Quang V and Dam, Than TN and Nguyen, Cu X and Nguyen, Nghia T and Bui, Hoa T</author>
-    <journal>Chemosphere</journal>
-    <no>5</no>
-    <number>45</number>
-    <page>450--456</page>
-    <publisher>Pergamon</publisher>
-    <title>Simulation of silicon leaching from flooded rice paddy soils in the Red River Delta, Vietnam</title>
-    <volumne>145</volumne>
-    <year>2016</year>
-    <doi>https://doi.org/10.1016/j.chemosphere.2015.11.104</doi>
-  </row>
-  <row>
-    <author>Hoang, Nam Nhat and Pham, Duc Huyen Yen and Nguyen, The Nghia</author>
-    <journal>Scientific reports</journal>
-    <no>6</no>
-    <number>1</number>
-    <page>1--10</page>
-    <publisher>Nature Publishing Group</publisher>
-    <title>Strain-dependent structure and Raman behaviours in the heavy-ion irradiated manganite at extreme low dose</title>
-    <volumne>9</volumne>
-    <year>2019</year>
-    <doi>https://doi.org/10.1038/s41598-019-55638-1</doi>
-  </row>
-  <row>
-    <author>Viet, Cuong Phan and Le Tuan, Anh and Le Xuan, Chung and Hong, Ha Nguyen and Thi, Thao Ho and Duc, Khue Pham</author>
-    <journal>EPJ Web of Conferences</journal>
-    <no>7</no>
-    <number>n/a</number>
-    <page>8004</page>
-    <publisher>EDP Sciences</publisher>
-    <title>Possibility for nuclear physics study based on Pelletron accelerator at Hanoi, Vietnam</title>
-    <volumne>206</volumne>
-    <year>2019</year>
-    <doi>https://doi.org/10.1051/epjconf/201920608004</doi>
-  </row>
-  <row>
-    <author>Thu, Huynh Nguyen Phong and Van Thang, Nguyen and others</author>
-    <journal>Journal of Environmental Radioactivity</journal>
-    <no>8</no>
-    <number>n/a</number>
-    <page>106189</page>
-    <publisher>Elsevier</publisher>
-    <title>The effects of some soil characteristics on radon emanation and diffusion</title>
-    <volumne>216</volumne>
-    <year>2020</year>
-    <doi>https://doi.org/10.1016/j.jenvrad.2020.106189</doi>
-  </row>
-  <row>
-    <author>Khac Thuan Nguyen, Van Hiep Vuong, The Nghia Nguyen, Trong Tinh Nguyen, Tomoyuki Yamamoto &amp; Nam Nhat Hoang</author>
-    <journal>Nature Communications </journal>
-    <no>9</no>
-    <number>n/a</number>
-    <page>1560</page>
-    <publisher>Nature Publishing Group</publisher>
-    <title>Unusual hydrogen implanted gold with lattice contraction at increased hydrogen content</title>
-    <volumne>12</volumne>
-    <year>2021</year>
-    <doi>https://doi.org/10.1038/s41467-021-21842-9</doi>
-  </row>
-</root>
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-10-26T11:12:05">
+<Sheet2>
+  <author>Nghia, Nguyen The and Van Loat, Bui and Mai, Vu Thanh</author>
+  <journal>VNU Journal of Science, Mathematics-Physics</journal>
+  <no>1</no>
+  <number>1S</number>
+  <page>180--184</page>
+  <publisher>VNU</publisher>
+  <title>The model 5SDH-2 pelletron accelerator and application</title>
+  <volumne>27</volumne>
+  <year>2011</year>
+  <doi>https://maygiatoc.com/docs/publications/</doi>
+</Sheet2>
+<Sheet2>
+  <author>Nghia, Nguyen The and others</author>
+  <journal>Nuclear Science and Technology</journal>
+  <no>2</no>
+  <number>3</number>
+  <page>50--55</page>
+  <publisher>VINATOM</publisher>
+  <title>Using resonance strength nuclear reaction 27Al(p,_)28Si to standardize energy for pelletron accelerator 5sdh-2 of hanoi university of science</title>
+  <volumne>3</volumne>
+  <year>2013</year>
+  <doi>https://vcgate.vnu.edu.vn/articles/using-resonant-nuclear-reaction-27al-p-g-28si-to-calibrate-beam-energy-for-pelletron-accelerator-5sdh-2-at-hanoi-university-of-science</doi>
+</Sheet2>
+<Sheet2>
+  <author>Khiem, Le Hong and Nghia, Nguyen The and Phong, Vi Ho and Van Loat, Bui and others</author>
+  <journal>Communications in Physics</journal>
+  <no>3</no>
+  <number>3S2</number>
+  <page>1--7</page>
+  <publisher>n/a</publisher>
+  <title>Proton Induced X-Ray Emission (PIXE) Analysis on Thick Samples at HUS 5SDH-2 Tandem Accelerator System</title>
+  <volumne>24</volumne>
+  <year>2014</year>
+  <doi>https://doi.org/10.15625/0868-3166/24/3S2/5013</doi>
+</Sheet2>
+<Sheet2>
+  <author>Khiem, Le Hong and Phong, Vi Ho and others</author>
+  <journal>Journal of Physics Conference Series</journal>
+  <no>4</no>
+  <number>1</number>
+  <page>12005</page>
+  <publisher>n/a</publisher>
+  <title>Calculation for optimization of the experimental conditions for RBS analysis at the HUS 5SDH-2 tandem accelerator</title>
+  <volumne>627</volumne>
+  <year>2015</year>
+  <doi>https://doi.org/10.1088/1742-6596/627/1/012005</doi>
+</Sheet2>
+<Sheet2>
+  <author>Nguyen, Minh N and Dultz, Stefan and Picardal, Flynn and Bui, Anh TK and Pham, Quang V and Dam, Than TN and Nguyen, Cu X and Nguyen, Nghia T and Bui, Hoa T</author>
+  <journal>Chemosphere</journal>
+  <no>5</no>
+  <number>45</number>
+  <page>450--456</page>
+  <publisher>Pergamon</publisher>
+  <title>Simulation of silicon leaching from flooded rice paddy soils in the Red River Delta, Vietnam</title>
+  <volumne>145</volumne>
+  <year>2016</year>
+  <doi>https://doi.org/10.1016/j.chemosphere.2015.11.104</doi>
+</Sheet2>
+<Sheet2>
+  <author>Hoang, Nam Nhat and Pham, Duc Huyen Yen and Nguyen, The Nghia</author>
+  <journal>Scientific reports</journal>
+  <no>6</no>
+  <number>1</number>
+  <page>1--10</page>
+  <publisher>Nature Publishing Group</publisher>
+  <title>Strain-dependent structure and Raman behaviours in the heavy-ion irradiated manganite at extreme low dose</title>
+  <volumne>9</volumne>
+  <year>2019</year>
+  <doi>https://doi.org/10.1038/s41598-019-55638-1</doi>
+</Sheet2>
+<Sheet2>
+  <author>Viet, Cuong Phan and Le Tuan, Anh and Le Xuan, Chung and Hong, Ha Nguyen and Thi, Thao Ho and Duc, Khue Pham</author>
+  <journal>EPJ Web of Conferences</journal>
+  <no>7</no>
+  <number>n/a</number>
+  <page>8004</page>
+  <publisher>EDP Sciences</publisher>
+  <title>Possibility for nuclear physics study based on Pelletron accelerator at Hanoi, Vietnam</title>
+  <volumne>206</volumne>
+  <year>2019</year>
+  <doi>https://doi.org/10.1051/epjconf/201920608004</doi>
+</Sheet2>
+<Sheet2>
+  <author>Thu, Huynh Nguyen Phong and Van Thang, Nguyen and others</author>
+  <journal>Journal of Environmental Radioactivity</journal>
+  <no>8</no>
+  <number>n/a</number>
+  <page>106189</page>
+  <publisher>Elsevier</publisher>
+  <title>The effects of some soil characteristics on radon emanation and diffusion</title>
+  <volumne>216</volumne>
+  <year>2020</year>
+  <doi>https://doi.org/10.1016/j.jenvrad.2020.106189</doi>
+</Sheet2>
+<Sheet2>
+  <author>Khac Thuan Nguyen, Van Hiep Vuong, The Nghia Nguyen, Trong Tinh Nguyen, Tomoyuki Yamamoto &amp; Nam Nhat Hoang</author>
+  <journal>Nature Communications </journal>
+  <no>9</no>
+  <number>n/a</number>
+  <page>1560</page>
+  <publisher>Nature Publishing Group</publisher>
+  <title>Unusual hydrogen implanted gold with lattice contraction at increased hydrogen content</title>
+  <volumne>12</volumne>
+  <year>2021</year>
+  <doi>https://doi.org/10.1038/s41467-021-21842-9</doi>
+</Sheet2>
+</dataroot>
