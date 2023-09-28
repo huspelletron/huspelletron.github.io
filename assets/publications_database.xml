@@ -148,12 +148,24 @@
     <author>Le, Tien and Pham, Ha H and Nghia, Nguyen The and Nam, Nguyen H and Miyanaga, T and Tran, Duc H and Kang, Won-Nam</author>
     <journal>Ceramics International</journal>
     <no>13</no>
-    <number>in press</number>
-    <page>in press</page>
+    <number>2</number>
+    <page>2715-2720</page>
     <publisher>Elsevier</publisher>
     <title>Effects of Sn-ion irradiation on local structure and flux pinning properties of MgB2 thin films</title>
-    <volumne>0</volumne>
-    <year>2022</year>
+    <volumne>49</volumne>
+    <year>2023</year>
+    <doi>https://doi.org/10.1016/j.ceramint.2022.09.252</doi>
+  </row>
+  <row>
+    <author>Pham, H.H., Le, T., Nguyen, T.N., Nam, N.H., Nguyen, N.T., Sohn, M.K., Kang, D.J., Park, T., Yun, J., Lee, Y. and Kim, J.,</author>
+    <journal>Ceramics International</journal>
+    <no>14</no>
+    <number>12</number>
+    <page>20586-20593</page>
+    <publisher>Elsevier</publisher>
+    <title>Correlation between electron-phonon coupling and superconductivity of Sn2+ ion irradiated MgB2-thin films</title>
+    <volumne>49</volumne>
+    <year>2023</year>
     <doi>https://doi.org/10.1016/j.ceramint.2022.09.252</doi>
   </row>
 </root>
