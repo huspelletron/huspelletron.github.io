@@ -1,0 +1,55 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Citationjs"
+subtitle: ""
+summary: ""
+authors: []
+tags: []
+categories: []
+date: 2023-10-08T14:56:11+09:00
+lastmod: 2023-10-08T14:56:11+09:00
+featured: false
+draft: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+---
+<div id="element"></div>
+<script type="text/javascript">
+async function getData(url) {
+  const response = await fetch(url);
+  return response.json();
+}
+window.onload = async function () {
+const jsondata = await getData("./citations.json")
+console.log(jsondata.citations[0])
+let Cite = require('citation-js')
+let bibliography = "";
+for (let i in jsondata.citations) {
+  let cite = await Cite.async(jsondata.citations[i])
+  let bibliography_i = cite.format('bibliography', {
+    format: 'html',
+    template: 'apa',
+    lang: 'en-US'
+  })
+  bibliography += bibliography_i + "<br />"
+}
+let element = document.getElementById('element')
+element.innerHTML = bibliography
+_altmetric_embed_init()
+}
+</script>

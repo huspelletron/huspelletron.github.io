@@ -1,0 +1,23 @@
+<html>
+<head>
+    <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/citation-js"></script>
+</head>
+<body>
+<div id="element"></div>
+<script>
+window.onload = async function () {
+let Cite = require('citation-js')
+bibtext = "@article{madurga2016evidence,title={Evidence for Gamow-Teller Decay of Ni 78 Core from Beta-Delayed Neutron Emission Studies},author={Madurga, M and Paulauskas, SV and Grzywacz, R and Miller, D and Bardayan, DW and Batchelder, JC and Brewer, NT and Cizewski, JA and Fija{\l}kowska, A and Gross, CJ and others},journal={Physical Review Letters},volume={117},number={9},pages={092502},year={2016},publisher={American Physical Society}}"
+let cite = await Cite.async(bibtext)
+let bibliography = cite.format('bibliography', {
+  format: 'html',
+  template: 'apa',
+  lang: 'en-US'
+})
+let element = document.getElementById('element')
+element.innerHTML = bibliography
+}
+</script>
+</body>
+</html>

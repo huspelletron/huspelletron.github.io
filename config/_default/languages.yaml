@@ -1,0 +1,58 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+vi:
+ languageCode: vi-VI
+ contentDir: content/vi
+ title: HUS Pelletron
+ params:
+   description: 
+ menu:
+  main:
+    - name: Trang chủ
+      url: '#home'
+      weight: 10
+    - name: Giới thiệu
+      identifier: overviewid
+      # url: '#overviews'
+      weight: 20
+    - name: Thông tin chung
+      parent: overviewid
+      url: '#overviews'
+      weight: 21
+    - name: Nguồn ion
+      parent: overviewid
+      url: 'ion-sources'
+      weight: 22
+    - name: Các kênh ra
+      parent: overviewid
+      url: 'beamlines'
+      weight: 23
+    - name: Nghiên cứu và Ứng dụng
+      parent: overviewid
+      url: 'research-and-applications'
+      weight: 24
+    - name: Đào tạo
+      parent: overviewid
+      url: 'education'
+      weight: 25
+    - name: Công bố khoa học
+      url: '#featured'
+      weight: 30
+    - name: Tin tức
+      url: '#posts'
+      weight: 50
+    - name: Thư viện Ảnh
+      url: '#gallery'
+      weight: 60
+    - name: Liên hệ
+      url: '#contact'
+      weight: 70
