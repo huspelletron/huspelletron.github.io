@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: HUS Pelletron # Website name
-baseURL: 'https://maygiatoc.com/home' # Website URL
+baseURL: 'https://maygiatoc.com' # Website URL
 # canonifyURLs: true
 
 ############################
