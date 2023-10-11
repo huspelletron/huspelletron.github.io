@@ -160,10 +160,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Accelerator Laboratory
+        Accelerator Laboratory, Department of Nuclear Physics, Faculty of Physics
       # Contact (add or remove contact options as necessary)
       email: 05.nghia@gmail.com
-      phone: +84 903 472 206
+      phone: +84 24 35583980
       # appointment_url: 'https://calendly.com'
       address:
         street: 1st Floor, T10 building, 334 Nguyen Trai Street
