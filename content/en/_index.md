@@ -88,6 +88,8 @@ sections:
         <h2> List of published research works ultilizing ion beams from the HUS Pelletron Accelerator:</h2>
         <p></p>
         <div id="element"></div>
+        <br/>
+        * Automatically generated from BibTeX file [here]({{< ref "../en/publication_list.bib">}}) *
         <script type="text/javascript">
             async function getData(url) {
                 const response = await fetch(url);
@@ -115,8 +117,6 @@ sections:
                     _altmetric_embed_init()
                 }        
         </script>
-        <br/>
-        * Automatically generated from BibTeX file [here]({{< ref "../en/publication_list.bib">}}) *
     design:
       columns: '1'
 
