@@ -88,7 +88,7 @@ sections:
         <h2> List of published research works ultilizing ion beams from the HUS Pelletron Accelerator:</h2>
         <p></p>
         <div id="element"></div>
-        * *Generated from [BibTeX](https://maygiatoc.com/en/publication_list.bib) *
+        <i> *Generated from a <a href="https://maygiatoc.com/en/publication_list.bib \"target=\"_blank\"">BibTeX file</i>
         <script type="text/javascript">
             async function getData(url) {
                 const response = await fetch(url);
