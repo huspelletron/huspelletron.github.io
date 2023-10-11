@@ -56,3 +56,6 @@ vi:
     - name: Liên hệ
       url: '#contact'
       weight: 70
+    - name: Indico
+      url: 'https://indico.maygiatoc.com'
+      weight: 70
