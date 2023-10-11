@@ -88,6 +88,7 @@ sections:
         <h2> Danh sách các công bố khoa học có sử dụng chùm tia từ máy gia tốc HUS Pelletron:</h2>
         <p></p>
         <div id="element"></div>
+        * [BibTeX](https://maygiatoc.com/en/publication_list.bib) *
         <script type="text/javascript">
             async function getData(url) {
                 const response = await fetch(url);
