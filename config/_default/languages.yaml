@@ -58,4 +58,4 @@ vi:
       weight: 70
     - name: Indico
       url: 'https://indico.maygiatoc.com'
-      weight: 70
+      weight: 80
