@@ -116,8 +116,7 @@ sections:
                 }        
         </script>
         <br/>
-
-        * Autmatically generated from BibTeX file [here]({{< ref "../en/publication_list.bib">}}) *
+        * Automatically generated from BibTeX file [here]({{< ref "../en/publication_list.bib">}}) *
     design:
       columns: '1'
 
