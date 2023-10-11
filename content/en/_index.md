@@ -196,7 +196,7 @@ sections:
           captcha: true
           captcha_key: 6LfWWpEoAAAAAI2s-bhACVbEGBFrkHmO1BSTvwRP
         netlify:
-          Enable CAPTCHA challenge to reduce spam?
+          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
       columns: '2'
