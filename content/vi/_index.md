@@ -160,10 +160,10 @@ sections:
       title: Liên hệ
       subtitle:
       text: |-
-        Phòng thí nghiệm Máy gia tốc
+        Phòng thí nghiệm Máy gia tốc, Bộ môn Vật lý Hạt nhân, Khoa Vật lý
       # Contact (add or remove contact options as necessary)
       email: 05.nghia@gmail.com
-      phone: +84 903 472 206
+      phone: +84 24 3558 3980
       # appointment_url: 'https://calendly.com'
       address:
         street: Tầng 1, toà nhà T10, Đại học Khoa học Tự nhiên Hà Nội, 334 Nguyễn Trãi, Thanh Xuân
