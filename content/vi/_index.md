@@ -195,9 +195,9 @@ sections:
           id: moqoyqwl
           captcha: true
           captcha_key: 6LfWWpEoAAAAAI2s-bhACVbEGBFrkHmO1BSTvwRP
-        # netlify:
+        netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          # captcha: true
+          captcha: false
     design:
       columns: '2'
   - block: markdown
