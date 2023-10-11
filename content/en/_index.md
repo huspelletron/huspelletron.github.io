@@ -86,7 +86,6 @@ sections:
       subtitle: ''
       text: |-
         <h2> List of published research works ultilizing ion beams from the HUS Pelletron Accelerator:</h2>
-        <br>Automatically generated from BibTeX file [here]({{< ref "../en/publication_list.bib">}}) </br>
         <p></p>
         <div id="element"></div>
         <script type="text/javascript">
