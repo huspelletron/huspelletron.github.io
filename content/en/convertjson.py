@@ -1,7 +1,7 @@
 
 import json
 
-file1 = open('publication_list.txt');
+file1 = open('publication_list.bib');
 count = 0
 linecnt = 0
 bibtextentries = []
