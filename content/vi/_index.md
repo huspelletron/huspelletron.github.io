@@ -10,7 +10,7 @@ sections:
     content:
       title: 
       cta:
-        label: '**Learn More**'
+        label: '**Tìm hiểu thêm**'
         url: '#overviews'
       text: |-
         # Máy gia tốc HUS Pelletron, ĐH Khoa học tự nhiên, ĐHQG Hà Nội
@@ -194,7 +194,7 @@ sections:
         formspree:
           id: moqoyqwl
           captcha: true
-          captcha_key: 6LcGaI4oAAAAAHT4WHVZ2ATOV5ZpwHQIedvPgNqh
+          captcha_key: 6LfWWpEoAAAAAI2s-bhACVbEGBFrkHmO1BSTvwRP
         # netlify:
           # Enable CAPTCHA challenge to reduce spam?
           # captcha: true
