@@ -88,6 +88,7 @@ sections:
         <h2> List of published research works ultilizing ion beams from the HUS Pelletron Accelerator:</h2>
         <p></p>
         <div id="element"></div>
+        * *Generated from [BibTeX]({{< ref "../en/publication_list.bib">}}) *
         <script type="text/javascript">
             async function getData(url) {
                 const response = await fetch(url);
@@ -195,9 +196,9 @@ sections:
           id: moqoyqwl
           captcha: true
           captcha_key: 6LfWWpEoAAAAAI2s-bhACVbEGBFrkHmO1BSTvwRP
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+        # netlify:
+        #   # Enable CAPTCHA challenge to reduce spam?
+        #   captcha: false
     design:
       columns: '2'
   - block: markdown
