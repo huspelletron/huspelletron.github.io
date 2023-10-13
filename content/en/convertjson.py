@@ -17,7 +17,10 @@ while True:
     if (len(line1)>1):
         line1 = line1[:-1]
     if (line1.find("url")>=0):
-        urlentry = line1.split("=")[1].strip().strip("{}")
+        urlentry = line1.split("=")[1].strip().strip(",")
+        lurlentry = len(urlentry)
+        urlentry = urlentry[1:lurlentry-1]
+        # print(urlentry)
     if (line1[0]=="@" and linecnt!=0):
         bibtextentries.append(bibtextentry)
         urlentries.append(urlentry)
