@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Pelletron accelerator at HUS tracing the issusive X17 particle  "
+title: "Pelletron accelerator at HUS tracing the illusive X17 particle  "
 subtitle: ""
 summary: ""
 authors: []
